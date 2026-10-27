@@ -1,0 +1,16 @@
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.exe
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.deps.json
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.runtimeconfig.json
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.dll
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\bin\Debug\net10.0\ConsoleApp2.pdb
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.sourcelink.json
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.dll
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\refint\ConsoleApp2.dll
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.pdb
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ref\ConsoleApp2.dll
+C:\Users\54142125893\Documents\PrimeiroRepositorioCsharp\condicionais\ConsoleApp2\ConsoleApp2\obj\Debug\net10.0\ConsoleA.D5FB4C91.Up2Date
